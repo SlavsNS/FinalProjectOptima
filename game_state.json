@@ -1,0 +1,21 @@
+{
+    "player": {
+        "name": "Klee",
+        "health": 60.68368762130516,
+        "damage": 18,
+        "armor": 10,
+        "resist": 0.23023047633157273
+    },
+    "enemy": {
+        "name": "Wanderer",
+        "health": 50.985956588400306,
+        "damage": 18,
+        "armor": 10,
+        "resist": 0.12324457355003862
+    },
+    "turn": 2,
+    "history": [
+        "Klee attacked Wanderer for 7.01 damage.",
+        "Wanderer attacked Klee for 6.16 damage."
+    ]
+}
